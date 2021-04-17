@@ -21,7 +21,22 @@ a {
   text-decoration: none
 }
 
-form {
-  color: blue;
+input[type=text] {
+  width: 30%;
+  height: 30px;
 
+}
+
+input[value] {
+  background-color: #337ab7;
+  border-radius: 10%;
+  outline: #337ab7;
+  height: 40px;
+  color: white;
+}
+
+.container {
+  padding: 20px;
+  margin: 30px;
+  border-left: 20px, red, solid;
 }
