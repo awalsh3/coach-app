@@ -29,5 +29,4 @@ class QuestionsController < ApplicationController
       coach_answer(question)
     end
   end
-
 end
